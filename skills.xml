@@ -1,0 +1,29 @@
+<V_Ksendzov_course>
+	<skills>
+		<skill_0>basic theory (testing, bug-reports, documentation, SDLC, STLC)</basic_theory>
+		<skill_1>Client-Server Architecture</skill_1>
+		<skill_2>HTTP (methods, HTTP response status codes, HTTP requests and responses structures)</skill_2>
+		<skill_3>JSON (basic theory, structure)</skill_3>
+		<skill_4>XML (basic theory, structure)</skill_4>
+		<skill_5>API via Postman (JS, Automated API Testing)</skill_5>
+		<skill_6>logs</skill_6>
+		<skill_7>Sniffing HTTP traffic (Chsrles, Fiddler)</skills_7>
+		<skill_8>Dev Tools (Google, Chrome, FireFox)</skill_9>
+		<skill_9>VPN</skill_9>
+		<skill_10>mobile testing</skill_10>
+		<skill_11>Guidelines (iOS, Android)</skill_11>
+		<skill_12>XCode</skill_12>
+		<skill_13>Android Studio</skill_13>
+		<skill_14>ADB</skill_14>
+		<skill_15>terminal Linux</skill_15>
+		<skill_16>bash scripting</skill_16>
+		<skill_17>remote servers access</skill_17>
+		<skill_18>SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill_18>
+		<skill_19>Postgres (Installation, Setting, Using)</skill_19>
+		<skill_20>Redis (Installation, Setting, Using)</skill_20>
+		<skill_21>load testing (Jmeter)</skill_21>
+		<skill_22>Scrum</skill_22>
+		<skill_23>Test design techniques (Equivalence classes, Boundary values, Combinatorial techniques, States and Transitions)</skill_23>
+		<skill_24>Python (basic, Client-server app)</skill_24>
+	</skills>
+</V_Ksendzov_course>
